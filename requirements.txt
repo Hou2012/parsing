@@ -14,7 +14,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
 jmespath==0.9.3
-lxml==4.3.0
+lxml==4.6.2
 MarkupSafe==1.1.0
 murmurhash==1.0.1
 nltk==3.4
